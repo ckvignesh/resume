@@ -1,0 +1,19 @@
+# Associations
+# comment out the urls if you do not wish to display them
+- organization: Mozilla
+  role: Volunteer
+  year: 2021 October &mdash; Present
+  url: https://community.mozilla.org/en/people/ckvignesh/
+  summary: Answering support questions. Working on improving Help Articles and MDN Docs.
+
+- organization: EddieHub
+  role: Volunteer
+  year: 2021 October &mdash; Present
+  url: https://www.eddiehub.org/
+  summary: Active Participant in the community. Supported users and other volunteers on technical queries and documentation.
+
+- organization: 7cups.com
+  role: Volunteer, Verified Listener
+  year: 2021 February &mdash; 2021 October
+  url: https://raw.githubusercontent.com/ckvignesh/resume/master/images/7cups%20LOR.jpg
+  summary: Wrote articles related to mental health, Handled Q & As and volunteered as a listener leader. Served as a Forum Supporter. Graduated Internship & Content Development and Marketing Course with Honors.
