@@ -1,15 +1,15 @@
 # Projects & Internship
 
-# Academic Project
-- project: Web Application for Courier Companies [Academic Tech Project]
+# Personal Projects
+- project: E-Commerce Website [Academic Tech Projects]
+  role: Developer
+  duration: December 2021 &mdash; Present
+  # url: "#"
+  description: Fullstack Project built using React and NodeJS. More information will be added as the project progresses.
+
+# Academic Projects
+- project: Web Application for Courier Companies [Academic Tech Projects]
   role: Developer
   duration: September 2020 &mdash; January 2020
   # url: "#"
   description: A simple PHP Website that used SQL at the backend to manage, track and monitor couriers for courier companies.
-#
-# 7cups internships
-# - project: Internship at 7cups.com
-#   role: Verified Listener
-#   duration: February 2021 - May 2021
-#   # url: "#"
-#   description:
