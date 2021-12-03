@@ -4,8 +4,15 @@
 - project: E-Commerce Website [Personal Tech Project]
   role: Developer
   duration: December 2021 &mdash; Present
-  # url: "#"
-  description: Fullstack Project built using React and NodeJS. More information will be added as the project progresses.
+  url: "https://github.com/ckvignesh/eCommerceStore"
+  description: Fullstack Project built on the MERN [MongoDB, Express, React, Node] stack. More details will be added as the project progresses. Documenting the journey [here](https://github.com/users/ckvignesh/projects/6).
+
+# Personal Projects
+- project: iamfreecodecamp [Open Source Project]
+  role: Contributor
+  duration: November 2021 &mdash; Present
+  url: "https://iamfreecodecamp.org/"
+  description: Website built on Next.js. Created the contribution guidelines in the documentation. Currently working on enhancing the frontend.
 
 # Academic Projects
 - project: Web Application for Courier Companies [Academic Tech Project]

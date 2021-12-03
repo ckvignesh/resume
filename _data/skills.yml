@@ -1,14 +1,13 @@
 # Skills
 # Communications strategy
 - skill: Web Development
-  description: <ul class="resume-item-list"><li>Front-end Web Development using HTML, CSS, NodeJS and React</li><li>Wordpress</li></ul>
-
-# Digital content development and creation
-- skill: Web content development, curation and creation
-  description: <ul class="resume-item-list"><li><a href="https://vigneshsportfolio.carrd.co/" target="_blank">Content writing & Strategy</a></li><li>Copywriting</li><li>Proof Reading & Editing</li></ul>
+  description: <ul class="resume-item-list"><li>Front-end Web Development using HTML, CSS, NodeJS and React</li><li>No and Low Code Platforms- Wordpress, Wix, Carrd, Notion</li><li>Hosting Platforms- Github Pages, Heroku, Vercel, Netlify.</li></ul>
 
 # Tech Blogging on hashnode
 - skill: Tech Blogging
   description: Active blogger on <a href="https://ckvignesh.hashnode.dev" target="_blank">Hashnode</a>.
 #
 
+# Digital content development and creation
+- skill: Web content development, curation and creation
+  description: <ul class="resume-item-list"><li><a href="https://vigneshsportfolio.carrd.co/" target="_blank">Content writing & Strategy</a></li><li>Copywriting</li><li>Editing</li></ul>
