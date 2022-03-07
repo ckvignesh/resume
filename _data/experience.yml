@@ -1,12 +1,6 @@
 # Jobs
-# Product Coordinator
-- company: Coducer Technologies, Bengaluru
-  position: Technical Project Coordinator
-  duration: Oct, 2021 &mdash; Present
-  summary: Worked on overseeing the project conception, execution and delivery. <ul class="resume-item-list"><li>Documentation of ongoing projects.</li><li>Led the team to build a reusable microservice product from scratch that was "build once deploy many", to save development time by 30%. </li><li>Created User stories, Wireframes & broke down tasks with milestones for the team.</li><li> Estimated costs for the Project to implement it in a cost effective manner. Contributed to the design and deployment.</li></ul>
-
 # Director of Digital Stratgy
 - company: Coducer Technologies, Bengaluru
-  position: Developer
-  duration: Jun, 2021 &mdash; Oct, 2021
-  summary: Worked on Frontend Web Development using React and Node.js. Some projects where I was directly involved - <ul class="resume-item-list"><li>Company Website [Ruby - Jekyll Pages]</li><li>Str8bat [React]</li></ul>
+  position: Frontend Developer
+  duration: Jun, 2021 &mdash; Feb, 2022
+  summary: Worked on Frontend Web Development using Jekyll Pages (Ruby) React and Node JS.

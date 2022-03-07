@@ -1,22 +1,29 @@
 # Projects & Internship
 
 # Personal Projects
-- project: Productivity App [Personal Project]
+- project: React Facts Page [Personal Project]
   role: Developer
-  duration: December 2021 &mdash; Present
-  url: "https://github.com/ckvignesh/productivity-app"
-  description: Fullstack Project built using Firebase and React. More details will be added as the project progresses. Documenting its journey <a href="https://github.com/users/ckvignesh/projects/6" target="_blank"> here </a>.
+  duration: March 2022
+  url: "https://vignesh-react-landing-page.netlify.app/"
+  description: A simple frontend project that generates a joke from an API. Tech stack - HTML, CSS and Javascript.
+
+# Open Source Project
+- project: wecraftcode [Open Source Project]
+  role: Contributor & Maintainer
+  duration: November 2021 &mdash; January 2022
+  url: "https://wecraftcode.org/"
+  description: Website built on Remix Run and Typescript. Currently working on enhancing the frontend.
 
 # Personal Projects
+- project: Joke Generator App [Personal Project]
+  role: Developer
+  duration: November 2021
+  url: "https://github.com/ckvignesh/randomJokeGenerator"
+  description: A simple frontend project that generates a joke from an API. Tech stack - HTML, CSS and Javascript.
+
+# Open Source Project
 - project: iamfreecodecamp [Open Source Project]
   role: Contributor
-  duration: November 2021 &mdash; Present
-  url: "https://iamfreecodecamp.org/"
-  description: Website built on Next.js. Created the contribution guidelines in the documentation. Currently working on enhancing the frontend.
-
-# Academic Projects
-- project: Web Application for Courier Companies [Academic Project]
-  role: Developer
-  duration: September 2020 &mdash; January 2020
-  # url: "#"
-  description: A simple PHP Website that used SQL at the backend to manage, track and monitor couriers for courier companies.
+  duration: November 2021 &mdash; January 2022
+  url: "https://github.com/ckvignesh/iamfreecodecamp"
+  description: Website built on Next.js. Created the contribution guidelines in the documentation.

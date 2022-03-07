@@ -1,28 +1,10 @@
 # Associations
 # comment out the urls if you do not wish to display them
-- organization: iamfreecodecamp
-  role: Contributor
+- organization: wecraftcode
+  role: Maintainer
   year: 2021 November &mdash; Present
-  url: https://iamfreecodecamp.org/
+  url: https://wecraftcode.org/
   summary: Improved the Documentation on how to contribute to the project. Currently working on enhancing the website's frontend.
-
-- organization: freecodecamp
-  role: Writer
-  year: 2021 December &mdash; Present
-  url: https://www.freecodecamp.org/
-  summary: Writing Technical Articles.
-
-- organization: Mozilla
-  role: Volunteer
-  year: 2021 October &mdash; Present
-  url: https://community.mozilla.org/en/people/ckvignesh/
-  summary: Answering support questions. Working on improving Help Articles and MDN Docs.
-
-- organization: EddieHub
-  role: Volunteer
-  year: 2021 October &mdash; Present
-  url: https://www.eddiehub.org/
-  summary: Active Participant in the community. Supported users and other volunteers on technical queries and documentation.
 
 - organization: 7cups.com
   role: Volunteer, Verified Listener
