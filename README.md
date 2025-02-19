@@ -1,1 +1,1 @@
-My virtual resume [version](http://resume.ckvignesh.me/).
+My virtual resume.
