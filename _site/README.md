@@ -1,1 +1,1 @@
-A simple resume website. Hosted [version](http://resume.ckvignesh.me/).
+My virtual resume.
